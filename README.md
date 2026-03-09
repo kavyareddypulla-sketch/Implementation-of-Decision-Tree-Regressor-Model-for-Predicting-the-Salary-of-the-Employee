@@ -7,7 +7,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+# Algorithm
+
 1. Import the required libraries and load the dataset (Salary.csv).
   
 2. Select the independent variable (Level) as feature X and the dependent variable (Salary) as target y.
